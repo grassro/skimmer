@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Skimmer/1.0.0": {
+        "dependencies": {
+          "Skimmer.Library": "1.0.0"
+        },
+        "runtime": {
+          "Skimmer.dll": {}
+        }
+      },
+      "Skimmer.Library/1.0.0": {
+        "runtime": {
+          "Skimmer.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skimmer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Skimmer.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
